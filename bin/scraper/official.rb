@@ -7,17 +7,25 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.name').text.tidy
+      name_node.text.tidy
     end
 
     def position
-      noko.css('.position').text.tidy
+      name_node.xpath('following-sibling::text()').map(&:text).map(&:tidy).reject(&:empty?).first
+               .sub(/ (of the )?Slovak Republic/, '')
+               .split(/ and (?=Minister)/)
+    end
+
+    private
+
+    def name_node
+      noko.css('strong')
     end
   end
 
   class Members
     def member_container
-      noko.css('.member')
+      noko.css('#dokument .clenzoznamtext')
     end
   end
 end
