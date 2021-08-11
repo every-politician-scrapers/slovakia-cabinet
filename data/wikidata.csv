@@ -1,4 +1,19 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
-Q60777536,Branislav Gröhling,Branislav Gröhling,male,1974-04-06T00:00:00Z,11,,Q30133594,"Minister of Education, Science, Research and Sport",Q60777536-eb8d9e5d-4bd4-e09a-4323-8d080fd612ed
-Q46227987,Eduard Heger,Eduard Heger,male,1976-05-03T00:00:00Z,11,,Q45369,Prime Minister of Slovakia,Q46227987-0d21bfc7-47d0-9b21-12ce-070d85aeb5bc
-Q88188383,Roman Mikulec,Roman Mikulec,male,1972-03-18T00:00:00Z,11,,Q57419167,Minister of Interior of the Slovak Republic,Q88188383-f590b116-418e-f6f5-8339-e4bd3d49f84f
+Q88298109,Andrej Doležal,Andrej Doležal,male,1981-03-23T00:00:00Z,11,https://www.vlada.gov.sk//members-of-the-government/,Q87740242,Minister of Transport and Construction,Q88298109-6daf301a-47b3-deb4-8eb8-fb322a372a7b
+Q60777536,Branislav Gröhling,Branislav Gröhling,male,1974-04-06T00:00:00Z,11,https://www.vlada.gov.sk//members-of-the-government/,Q30133594,"Minister of Education, Science, Research and Sport",Q60777536-eb8d9e5d-4bd4-e09a-4323-8d080fd612ed
+Q46227987,Eduard Heger,Eduard Heger,male,1976-05-03T00:00:00Z,11,https://www.vlada.gov.sk//members-of-the-government/,Q45369,Prime Minister,Q46227987-0d21bfc7-47d0-9b21-12ce-070d85aeb5bc
+Q552706,Igor Matovič,Igor Matovič,male,1973-05-11T00:00:00Z,11,,Q108048763,Deputy Prime Minister,Q552706-7C15270F-114F-4437-AD5D-906104955F09
+Q552706,Igor Matovič,Igor Matovič,male,1973-05-11T00:00:00Z,11,https://www.vlada.gov.sk//members-of-the-government/,Q20675149,Minister of Finance,Q552706-6df87481-4ec6-314e-c270-22bede68458c
+Q3156132,Ivan Korčok,Ivan Korčok,male,1964-04-04T00:00:00Z,11,https://www.vlada.gov.sk//members-of-the-government/,Q62999858,Minister of Foreign and European Affairs,Q3156132-58CA4B73-6E9A-427A-8431-A70C79B0CBC9
+Q86755007,Jaroslav Naď,Jaroslav Naď,male,1981-03-21T00:00:00Z,11,,Q108048941,Minister of Defense,Q86755007-8AAF8693-3616-407A-A79A-C01E857DD936
+Q12027325,Ján Budaj,Ján Budaj,male,1952-02-10T00:00:00Z,11,,Q108049036,Minister of Environment,Q12027325-016B713C-A3EA-4C9D-AFAD-DE137BC883F4
+Q54991677,Milan Krajniak,Milan Krajniak,male,1973-01-30T00:00:00Z,11,https://www.vlada.gov.sk//members-of-the-government/,Q87605144,"Minister of Labour, Social Affairs and Family",Q54991677-9EABF63D-9315-4992-A199-5C2C4A6E43D5
+Q56823084,Mária Kolíková,Mária Kolíková,female,1974-08-29T00:00:00Z,11,,Q108048964,Minister of Justice,Q56823084-9C5D5261-98E5-4EDC-A303-9DD94C9311BD
+Q61748113,Natália Milanová,Natália Milanová,female,1982-06-12T00:00:00Z,11,,Q54914019,Minister of Culture,Q61748113-A5C04FC7-83E2-4D03-91D6-45CE8A421A83
+Q586798,Richard Sulík,Richard Sulík,male,1968-01-12T00:00:00Z,11,,Q108048763,Deputy Prime Minister,Q586798-CEB9F3AE-6976-4AC7-B0D9-F7CA57EBF0B8
+Q586798,Richard Sulík,Richard Sulík,male,1968-01-12T00:00:00Z,11,,Q108048767,Minister of Economy,Q586798-08BF2A96-1EC2-48A8-B35B-065F984CE999
+Q88188383,Roman Mikulec,Roman Mikulec,male,1972-03-18T00:00:00Z,11,https://www.vlada.gov.sk//members-of-the-government/,Q57419167,Minister of Interior,Q88188383-f590b116-418e-f6f5-8339-e4bd3d49f84f
+Q107154992,Samuel Vlčan,Samuel Vlčan,male,,,https://www.vlada.gov.sk//members-of-the-government/,Q25907399,Minister of Agriculture and Rural Development,Q107154992-FF837A06-5760-4254-A25D-8E9A9080B244
+Q26837632,Veronika Remišová,Veronika Remišová,female,1976-05-31T00:00:00Z,11,,Q108048838,Deputy Prime Minister for Investments and Informatization,Q26837632-6F52BDE2-589A-49E9-A0A7-C32B981BAE50
+Q85421835,Vladimír Lengvarský,Vladimír Lengvarský,male,1969-08-18T00:00:00Z,11,https://www.vlada.gov.sk//members-of-the-government/,Q89192431,Minister of Health,Q85421835-184177fe-42ea-02f9-cb06-07d81fc2fc7d
+Q88299018,Štefan Holý,Štefan Holý,male,1978-12-11T00:00:00Z,11,,Q108048763,Deputy Prime Minister,Q88299018-64F29547-97FB-4472-9574-2F4917F2CACD
