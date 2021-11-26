@@ -101,6 +101,11 @@
           "template": "use dmy dates"
         },
         {
+          "text": "Michal Truban",
+          "lan1": "sk",
+          "template": "ill"
+        },
+        {
           "year": "1973",
           "month": "6",
           "day": "21",
@@ -536,6 +541,13 @@
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/Rozhovor_Zuzana_%C4%8Caputov%C3%A1_po_odvolen%C3%AD.jpg",
           "caption": "Čaputová speaking to reporters, 2019",
           "links": []
+        }
+      ],
+      "templates": [
+        {
+          "text": "Ivan Štefunko",
+          "lan1": "sk",
+          "template": "ill"
         }
       ],
       "references": [
