@@ -197,61 +197,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "template": "government of slovakia 2020"
-        },
-        {
-          "template": "slovakia-politician-stub"
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Official website",
-            "links": [
-              {
-                "text": "Official website",
-                "type": "external",
-                "site": "https://milanova.sk/"
-              }
-            ]
-          },
-          {
-            "text": "Biography webpage at the website of the National Council",
-            "links": [
-              {
-                "text": "Biography webpage",
-                "type": "external",
-                "site": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=985&CisObdobia=7"
-              },
-              {
-                "text": "National Council",
-                "type": "internal",
-                "page": "National Council (Slovakia)"
-              }
-            ]
-          }
-        ]
-      ]
     }
   ]
 }
