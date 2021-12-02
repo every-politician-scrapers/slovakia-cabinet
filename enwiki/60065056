@@ -101,6 +101,11 @@
           "template": "use dmy dates"
         },
         {
+          "text": "Michal Truban",
+          "lan1": "sk",
+          "template": "ill"
+        },
+        {
           "year": "1973",
           "month": "6",
           "day": "21",
