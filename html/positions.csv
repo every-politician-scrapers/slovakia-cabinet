@@ -1,6 +1,7 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q6468838,President of Slovakia,Q214,Q214,,Q309432,1993-01-01,,,,President of Slovakia
 Q45369,Prime Minister of Slovakia,Q214,Q214,,,1969-01-02,,,,Prime Minister of Slovakia
+Q108048763,Deputy Prime Minister,Q214,Q214,,,,,,,
 Q108048838,Deputy Prime Minister for Investments and Informatization,Q214,Q214,,,,,,,
 Q25907399,Minister of Agriculture and Rural Development of the Slovak Republic,Q214,Q214,,,,,,,
 Q54914019,Minister of Culture,Q214,Q214,,,,,,,
@@ -9,7 +10,9 @@ Q108048767,Minister of Economy,Q214,Q214,,,,,,,
 Q30133594,"Minister of Education, Science, Research and Sport",Q214,Q214,,,,,,,
 Q108049036,Minister of Environment,Q214,Q214,,,,,,,
 Q20675149,Minister of Finance of the Slovak Republic,Q214,Q214,,,,,,,
+Q2501411,Minister of Foreign Affairs,Q214,Q214,,,,,Q47253034,,Minister of Foreign Affairs (Slovakia)
 Q62999858,Minister of Foreign and European Affairs of the Slovak Republic,Q214,Q214,,,,,,,
+Q89192431,Minister of Health of the Slovak Republic,Q214,Q214,,Q12052825,1969-01-08,,Q108923236,,
 Q57419167,Minister of Interior of the Slovak Republic,Q214,Q214,,,,,,,
 Q108048964,Minister of Justice,Q214,Q214,,,,,,,
 Q87605144,"Minister of Labor, Social Affairs and Family of the Slovak Republic",Q214,Q214,,,,,,,
