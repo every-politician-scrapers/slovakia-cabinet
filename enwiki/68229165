@@ -138,36 +138,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Vladimír Lengvarský",
-          "url": "https://www.health.gov.sk/?minister-zdravotnictva-sr",
-          "url-status": "live",
-          "access-date": "14 July 2021",
-          "website": "health.gov.sk",
-          "language": "sk",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "1 April 2021",
-          "title": "Slovakia gets new government, ending Russian vaccine crisis",
-          "work": "Politico",
-          "url": "https://www.politico.eu/article/slovakia-gets-new-government-ending-russian-coronavirus-vaccine-crisis/",
-          "access-date": "13 July 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "1 April 2021",
-          "title": "Who will stay and who will be replaced in the new government?",
-          "work": "actualdnes.sk",
-          "url": "https://aktualdnes.sk/who-will-stay-and-who-will-be-replaced-in-the-new-government/",
-          "access-date": "13 July 2021",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

@@ -304,49 +304,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Ivan Korčok",
-          "url": "https://www.mzv.sk/web/en/ministry/minister",
-          "url-status": "live",
-          "access-date": "3 October 2020",
-          "website": "Ministry of Foreign and European Affairs of the Slovak Republic",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "8 April 2020",
-          "title": "Prezidentka vymenovala Korčoka za ministra zahraničia",
-          "language": "sk",
-          "work": "SME",
-          "url": "https://domov.sme.sk/c/22379267/prezidentka-vymenovala-korcoka-za-ministra-zahranicia.html",
-          "url-status": "live",
-          "access-date": "3 October 2020",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "16 September 2018",
-          "title": "Ivan Korčok Receives Czech and Slovak Transatlantic Award",
-          "work": "GLOBSEC",
-          "url": "https://www.globsec.org/news/ivan-korcok-receives-czech-and-slovak-transatlantic-award/",
-          "url-status": "live",
-          "access-date": "5 October 2020",
-          "archive-url": "https://web.archive.org/web/20200805100454/https://www.globsec.org/news/ivan-korcok-receives-czech-and-slovak-transatlantic-award/",
-          "archive-date": "5 August 2020",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Slovak foreign minister resigns as government teeters",
-          "url": "https://www.dw.com/en/slovak-foreign-minister-resigns-as-government-teeters/a-56970292",
-          "access-date": "24 March 2021",
-          "work": "Deutsche Welle",
-          "date": "24 March 2021",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]
