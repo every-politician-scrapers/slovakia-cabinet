@@ -384,20 +384,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "last": "Reuters",
-          "url": "https://www.theguardian.com/world/2020/mar/21/slovakia-president-appoints-centre-right-coalition-government",
-          "title": "Slovakia president appoints centre-right coalition government",
-          "date": "21 March 2020",
-          "work": "The Guardian",
-          "access-date": "24 March 2020",
-          "language": "en-GB",
-          "issn": "0261-3077",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

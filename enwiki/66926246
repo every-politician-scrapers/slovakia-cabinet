@@ -222,28 +222,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Milan Krajniak",
-          "url": "https://www.employment.gov.sk/sk/ministerstvo/minister/",
-          "url-status": "live",
-          "access-date": "27 February 2021",
-          "website": "Slovak Government",
-          "language": "sk",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "18 March 2020",
-          "title": "Matovic Presents Names of New Ministers, Caputova Consents All Nominations",
-          "work": "News Now",
-          "url": "https://newsnow.tasr.sk/policy/matovic-presents-names-of-new-ministers-caputova-consents-all-nominations/",
-          "url-status": "live",
-          "access-date": "27 February 2021",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

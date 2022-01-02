@@ -300,33 +300,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Deputy Prime Minister",
-          "url": "https://www.vicepremier.gov.sk/en/deputy-prime-minister/",
-          "website": "Vicepremier",
-          "access-date": "7 May 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Hloušek",
-          "first1": "Vít",
-          "title": "The Rise of Entrepreneurial Parties in European Politics",
-          "date": "21 April 2020",
-          "publisher": "Springer Nature",
-          "isbn": "978-3-030-41916-5",
-          "pages": "112–113",
-          "url": "https://books.google.com/books?id=rJneDwAAQBAJ&q=Veronika+Remi%C5%A1ov%C3%A1+2019&pg=PA192",
-          "language": "en",
-          "template": "citation",
-          "type": "book"
-        },
-        {
-          "date": "August 2020",
-          "template": "citation needed"
-        }
       ]
     }
   ]
