@@ -1,17 +1,17 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q11384467,Q11384467,,,,,,,,,Q3495267,Government of Slovakia,,,,,,,,,,
-,Q11829896,Q11829896,,,,,,,,,Q3495267,Government of Slovakia,,,,,,,,,,
-,Q11919324,Tuka's Cabinet,,,,,,,,,Q3495267,Government of Slovakia,,,,,,,,,,
-,Q11919506,Q11919506,,,,,,,,,Q3495267,Government of Slovakia,,,,,,,,,,
-,Q11919521,Q11919521,,,,,,,,,Q3495267,Government of Slovakia,,,,,,,,,,
-,Q12047361,Q12047361,,,,,,,,,Q3495267,Government of Slovakia,,,,,,,,,,
-,Q12060359,Q12060359,,,,,,,,,Q3495267,Government of Slovakia,,,,,,,,,,
-,Q11919120,Q11919120,1989-12-12,11,,,1990-06-26,11,,,Q3495267,Government of Slovakia,,,,,,,,,,
-,Q3509264,Q3509264,1990-06-27,11,,,1991-04-22,11,,,Q3495267,Government of Slovakia,,,,,,,,,,
-,Q11918795,Q11918795,1991-04-23,11,,,1992-06-24,11,,,Q3495267,Government of Slovakia,,,,,,,,,,
-,Q3509170,Q3509170,1992-06-24,11,,,1994-03-15,11,,,Q3495267,Government of Slovakia,,,,,,,,,,
-,Q851906,Fico's Second Cabinet,2012-04-04,11,,,2016-03-23,11,,,Q640506,cabinet,,,Q909433,Radičová's Cabinet,Q23466079,Fico's Third Cabinet,Q909433,Radičová's Cabinet,Q23466079,Fico's Third Cabinet
-,Q23466079,Fico's Third Cabinet,2016-03-23,11,,,2018-03-22,11,,,Q640506,cabinet,,,Q851906,Fico's Second Cabinet,Q50823679,Pellegrini's Cabinet,Q851906,Fico's Second Cabinet,Q50823679,Pellegrini's Cabinet
-,Q50823679,Pellegrini's Cabinet,2018-03-22,11,,,2020-03-21,11,,,Q640506,cabinet,,,Q23466079,Fico's Third Cabinet,Q87813526,Matovič’s Cabinet,Q23466079,Fico's Third Cabinet,,
-,Q87813526,Matovič’s Cabinet,2020-03-21,11,,,2021-04-01,11,,,Q640506,cabinet,,,Q50823679,Pellegrini's Cabinet,Q106303161,Heger's Cabinet,,,Q106303161,Heger's Cabinet
-,Q106303161,Heger's Cabinet,2021-04-01,11,,,,,,,Q3495267,Government of Slovakia,,,Q87813526,Matovič’s Cabinet,,,Q87813526,Matovič’s Cabinet,,
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q11384467,Q11384467,,,,,,,,,,,,,,,,
+,Q11829896,Q11829896,,,,,,,,,,,,,,,,
+,Q11919324,Tuka's Cabinet,,,,,,,,,,,,,,,,
+,Q11919506,Q11919506,,,,,,,,,,,,,,,,
+,Q11919521,Q11919521,,,,,,,,,,,,,,,,
+,Q12047361,Q12047361,,,,,,,,,,,,,,,,
+,Q12060359,Q12060359,,,,,,,,,,,,,,,,
+,Q11919120,Q11919120,1989-12-12,11,,,1990-06-26,11,,,,,,,,,,
+,Q3509264,Q3509264,1990-06-27,11,,,1991-04-22,11,,,,,,,,,,
+,Q11918795,Q11918795,1991-04-23,11,,,1992-06-24,11,,,,,,,,,,
+,Q3509170,Q3509170,1992-06-24,11,,,1994-03-15,11,,,,,,,,,,
+,Q851906,Fico's Second Cabinet,2012-04-04,11,,,2016-03-23,11,,,Q909433,Radičová's Cabinet,Q23466079,Fico's Third Cabinet,Q909433,Radičová's Cabinet,Q23466079,Fico's Third Cabinet
+,Q23466079,Fico's Third Cabinet,2016-03-23,11,,,2018-03-22,11,,,Q851906,Fico's Second Cabinet,Q50823679,Pellegrini's Cabinet,Q851906,Fico's Second Cabinet,Q50823679,Pellegrini's Cabinet
+,Q50823679,Pellegrini's Cabinet,2018-03-22,11,,,2020-03-21,11,,,Q23466079,Fico's Third Cabinet,Q87813526,Matovič’s Cabinet,Q23466079,Fico's Third Cabinet,,
+,Q87813526,Matovič’s Cabinet,2020-03-21,11,,,2021-04-01,11,,,Q50823679,Pellegrini's Cabinet,Q106303161,Heger's Cabinet,,,Q106303161,Heger's Cabinet
+,Q106303161,Heger's Cabinet,2021-04-01,11,,,,,,,Q87813526,Matovič’s Cabinet,,,Q87813526,Matovič’s Cabinet,,
