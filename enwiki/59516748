@@ -106,24 +106,18 @@
             ]
           },
           "party": {
-            "text": "Independent (as mayor of Bratislava with support PS and Spolu - OD)",
+            "text": "Team Bratislava (2022–present)",
             "links": [
               {
-                "text": "Independent",
                 "type": "internal",
-                "page": "Independent politician"
-              },
-              {
-                "text": "PS",
-                "type": "internal",
-                "page": "Progressive Slovakia"
-              },
-              {
-                "text": "Spolu - OD",
-                "type": "internal",
-                "page": "Together - Civic Democracy"
+                "page": "Team Bratislava"
               }
-            ]
+            ],
+            "formatting": {
+              "italic": [
+                "present"
+              ]
+            }
           },
           "spouse": {
             "text": "Linda Vallová"
