@@ -17,6 +17,13 @@
           "sentences": [
             {
               "text": "Andrej Doležal (born 23 March 1981) is a Slovak politician.",
+              "links": [
+                {
+                  "text": "Slovak",
+                  "type": "internal",
+                  "page": "Slovakia"
+                }
+              ],
               "formatting": {
                 "bold": [
                   "Andrej Doležal"
@@ -33,6 +40,10 @@
         {
           "description": "Slovak politician",
           "template": "short description"
+        },
+        {
+          "date": "February 2022",
+          "template": "use dmy dates"
         },
         {
           "df": "yes",
