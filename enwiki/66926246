@@ -1,228 +1,25 @@
 {
-  "title": "Milan Krajniak",
-  "pageID": 66926246,
-  "categories": [
-    "Living people",
-    "1973 births",
-    "Place of birth missing (living people)",
-    "Government ministers of Slovakia",
-    "21st-century Slovak politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Milan Krajniak (born 30 January 1973) is a Slovak politician.",
-              "formatting": {
-                "bold": [
-                  "Milan Krajniak"
-                ]
-              }
-            },
-            {
-              "text": "He serves as Minister of Labour, Social Affairs and Family."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Slovak politician",
-          "template": "short description"
-        },
-        {
-          "df": "yes",
-          "year": "1973",
-          "month": "1",
-          "day": "30",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "2020",
-            "3",
-            "21"
-          ],
-          "lc": "yes",
-          "template": "as of"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Milan Krajniak"
-          },
-          "image": {
-            "text": "MilanKrajniakWikifoto.jpg"
-          },
-          "office": {
-            "text": "16th Minister of Labour, Social Affairs and Family of the Slovak Republic",
-            "links": [
-              {
-                "text": "Minister of Labour, Social Affairs and Family",
-                "type": "internal",
-                "page": "Heger's Cabinet"
-              },
-              {
-                "type": "internal",
-                "page": "Slovak Republic"
-              }
-            ]
-          },
-          "president": {
-            "text": "Zuzana Čaputová",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Zuzana Čaputová"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Eduard Heger",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Eduard Heger"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "9 April 2021"
-          },
-          "predecessor": {
-            "text": "Andrej Doležal ad interim",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Andrej Doležal"
-              }
-            ]
-          },
-          "office2": {
-            "text": "14th Minister of Labour, Social Affairs and Family of the Slovak Republic",
-            "links": [
-              {
-                "text": "Minister of Labour, Social Affairs and Family",
-                "type": "internal",
-                "page": "Heger's Cabinet"
-              },
-              {
-                "type": "internal",
-                "page": "Slovak Republic"
-              }
-            ]
-          },
-          "president2": {
-            "text": "Zuzana Čaputová",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Zuzana Čaputová"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Igor Matovič",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Igor Matovič"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "21 March 2020"
-          },
-          "term_end2": {
-            "text": "17 March 2021"
-          },
-          "predecessor2": {
-            "text": "Ján Richter",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ján Richter"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Andrej Doležal ad interim",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Andrej Doležal"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Member of the National Council of the Slovak Republic",
-            "links": [
-              {
-                "type": "internal",
-                "page": "National Council of the Slovak Republic"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "18 March 2021"
-          },
-          "term_end1": {
-            "text": "8 April 2021"
-          },
-          "office3": {
-            "text": "Member of the National Council of the Slovak Republic",
-            "links": [
-              {
-                "type": "internal",
-                "page": "National Council of the Slovak Republic"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "2016",
-            "number": 2016
-          },
-          "term_end3": {
-            "text": "2020",
-            "number": 2020
-          },
-          "birth_date": {
-            "text": "January 30, 1973"
-          },
-          "birth_place": {
-            "text": "Bojnice, Czechoslovakia, now Slovakia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bojnice"
-              },
-              {
-                "type": "internal",
-                "page": "Czechoslovakia"
-              },
-              {
-                "type": "internal",
-                "page": "Slovakia"
-              }
-            ]
-          },
-          "party": {
-            "text": "We Are Family",
-            "links": [
-              {
-                "text": "We Are Family",
-                "type": "internal",
-                "page": "We Are Family (Slovakia)"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Milan Krajniak",
+  "image": "MilanKrajniakWikifoto.jpg",
+  "office": "16th Minister of Labour, Social Affairs and Family of the Slovak Republic",
+  "president": "Zuzana Čaputová",
+  "primeminister": "Eduard Heger",
+  "term_start": "9 April 2021",
+  "predecessor": "Andrej Doležal ad interim",
+  "office2": "14th Minister of Labour, Social Affairs and Family of the Slovak Republic",
+  "president2": "Zuzana Čaputová",
+  "primeminister2": "Igor Matovič",
+  "term_start2": "21 March 2020",
+  "term_end2": "17 March 2021",
+  "predecessor2": "Ján Richter",
+  "successor2": "Andrej Doležal ad interim",
+  "office1": "Member of the National Council of the Slovak Republic",
+  "term_start1": "18 March 2021",
+  "term_end1": "8 April 2021",
+  "office3": "Member of the National Council of the Slovak Republic",
+  "term_start3": "2016",
+  "term_end3": "2020",
+  "birth_date": "January 30, 1973",
+  "birth_place": "Bojnice, Czechoslovakia, now Slovakia",
+  "party": "We Are Family"
 }

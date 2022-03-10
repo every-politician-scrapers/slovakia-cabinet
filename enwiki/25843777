@@ -1,294 +1,33 @@
 {
-  "title": "Richard Sulík",
-  "pageID": 25843777,
-  "categories": [
-    "1968 births",
-    "Freedom and Solidarity MEPs",
-    "Freedom and Solidarity politicians",
-    "Living people",
-    "MEPs for Slovakia 2014–2019",
-    "Speakers of the National Council (Slovakia)",
-    "University of Economics in Bratislava alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Richard Sulík (born 12 January 1968) is a Slovak politician, economist and businessman.",
-              "links": [
-                {
-                  "text": "Slovak",
-                  "type": "internal",
-                  "page": "Slovaks"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Richard Sulík"
-                ]
-              }
-            },
-            {
-              "text": "He is the leader of the political party Freedom and Solidarity and currently serving as Deputy Prime Minister for Economy and Minister of Economy in Government of Slovakia led by Eduard Heger.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Freedom and Solidarity"
-                },
-                {
-                  "type": "internal",
-                  "page": "Minister of Economy"
-                },
-                {
-                  "type": "internal",
-                  "page": "Government of Slovakia"
-                },
-                {
-                  "type": "internal",
-                  "page": "Eduard Heger"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Slovak politician, economist and businessman",
-          "template": "short description"
-        },
-        {
-          "date": "June 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1968",
-          "month": "1",
-          "day": "12",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "transcription": "ˈrixart ˈsuliːk",
-          "template": "ipa"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Richard Sulík"
-          },
-          "image": {
-            "text": "Richard_sulik2019.jpg"
-          },
-          "office": {
-            "text": "Deputy Prime Minister for Economic Affairs",
-            "links": [
-              {
-                "text": "Deputy Prime Minister for Economic Affairs",
-                "type": "internal",
-                "page": "Heger's Cabinet"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Eduard Heger",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Eduard Heger"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "1 April 2021"
-          },
-          "predecessor": {
-            "text": "Andrej Doležal (acting)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Andrej Doležal"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Igor Matovič",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Igor Matovič"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "21 March 2020"
-          },
-          "term_end1": {
-            "text": "23 March 2021"
-          },
-          "successor1": {
-            "text": "Andrej Doležal (acting)"
-          },
-          "office2": {
-            "text": "Minister of Economy",
-            "links": [
-              {
-                "text": "Minister of Economy",
-                "type": "internal",
-                "page": "Cabinet of Igor Matovič"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Eduard Heger",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Eduard Heger"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "1 April 2021"
-          },
-          "predecessor2": {
-            "text": "Andrej Doležal (acting)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Andrej Doležal"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Igor Matovič",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Igor Matovič"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "21 March 2020"
-          },
-          "term_end3": {
-            "text": "23 March 2021"
-          },
-          "predecessor3": {
-            "text": "Peter Žiga",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Peter Žiga"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Andrej Doležal (acting)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Andrej Doležal"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Member of the European Parliament",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Member of the European Parliament"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "24 May 2014"
-          },
-          "term_end5": {
-            "text": "25 May 2019"
-          },
-          "office6": {
-            "text": "5th Speaker of the National Council",
-            "links": [
-              {
-                "text": "Speaker of the National Council",
-                "type": "internal",
-                "page": "List of speakers of Slovak parliaments"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "8 July 2010"
-          },
-          "term_end6": {
-            "text": "13 October 2011"
-          },
-          "predecessor6": {
-            "text": "Pavol Paška",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pavol Paška"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "Pavol Hrušovský",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pavol Hrušovský"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "January 12, 1968"
-          },
-          "birth_place": {
-            "text": "Bratislava, Czechoslovakia (now Slovakia)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bratislava"
-              },
-              {
-                "type": "internal",
-                "page": "Czechoslovakia"
-              }
-            ]
-          },
-          "party": {
-            "text": "Freedom and Solidarity (2009–present)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Freedom and Solidarity"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Munich\nUniversity of Economics, Bratislava",
-            "links": [
-              {
-                "text": "University of Munich",
-                "type": "internal",
-                "page": "Ludwig Maximilian University of Munich"
-              },
-              {
-                "text": "University of Economics, Bratislava",
-                "type": "internal",
-                "page": "University of Economics in Bratislava"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Richard Sulík",
+  "image": "Richard_sulik2019.jpg",
+  "office": "Deputy Prime Minister for Economic Affairs",
+  "primeminister": "Eduard Heger",
+  "term_start": "1 April 2021",
+  "predecessor": "Andrej Doležal (acting)",
+  "primeminister1": "Igor Matovič",
+  "term_start1": "21 March 2020",
+  "term_end1": "23 March 2021",
+  "successor1": "Andrej Doležal (acting)",
+  "office2": "Minister of Economy",
+  "primeminister2": "Eduard Heger",
+  "term_start2": "1 April 2021",
+  "predecessor2": "Andrej Doležal (acting)",
+  "primeminister3": "Igor Matovič",
+  "term_start3": "21 March 2020",
+  "term_end3": "23 March 2021",
+  "predecessor3": "Peter Žiga",
+  "successor3": "Andrej Doležal (acting)",
+  "office5": "Member of the European Parliament",
+  "term_start5": "24 May 2014",
+  "term_end5": "25 May 2019",
+  "office6": "5th Speaker of the National Council",
+  "term_start6": "8 July 2010",
+  "term_end6": "13 October 2011",
+  "predecessor6": "Pavol Paška",
+  "successor6": "Pavol Hrušovský",
+  "birth_date": "January 12, 1968",
+  "birth_place": "Bratislava, Czechoslovakia (now Slovakia)",
+  "party": "Freedom and Solidarity (2009–present)",
+  "alma_mater": "University of Munich\nUniversity of Economics, Bratislava"
 }
