@@ -1,0 +1,24 @@
+id,name,relationship,relative,relativename
+Q11729469,Juraj Migas,sibling,Q1300892,Jozef Migaš
+Q12762303,Andrej Kiska,spouse,Q28037993,Martina Kisková
+Q12762303,Andrej Kiska,spouse,Q41799867,Mária Kisková
+Q12770572,Lucia Ďuriš Nicholsonová,spouse,Q12059139,Tom Nicholson
+Q12771236,Matúš Vallo,father,Q66311010,Stanislav Vallo
+Q12771236,Matúš Vallo,mother,Q66310987,Miroslava Vallová
+Q12771236,Matúš Vallo,relative,Q712289,Miroslav Válek
+Q1300892,Jozef Migaš,sibling,Q11729469,Juraj Migas
+Q163813,Rudolf Schuster,spouse,Q56254928,Irena Schusterová
+Q21685708,Igor Slobodník,father,Q3489794,Dušan Slobodník
+Q21685708,Igor Slobodník,sibling,Q13441443,Martin Slobodník
+Q26273268,Zuzana Čaputová,partner,Q81834803,Peter Konečný
+Q26273268,Zuzana Čaputová,spouse,Q81829381,Ivan Čaputa
+Q27990509,Mária Krasnohorská,child,Q110490821,Juraj Krasnohorský
+Q28037993,Martina Kisková,spouse,Q12762303,Andrej Kiska
+Q3488404,Silvia Gašparovičová,spouse,Q57295,Ivan Gašparovič
+Q467905,Miroslav Lajčák,spouse,Q12767847,Jarmila Lajčáková-Hargašová
+Q56254928,Irena Schusterová,spouse,Q163813,Rudolf Schuster
+Q57295,Ivan Gašparovič,spouse,Q3488404,Silvia Gašparovičová
+Q57606,Robert Fico,spouse,Q18042191,Svetlana Ficová
+Q66311010,Stanislav Vallo,child,Q12771236,Matúš Vallo
+Q66311010,Stanislav Vallo,spouse,Q66310987,Miroslava Vallová
+Q6850543,Milan Ftáčnik,sibling,Q344716,Ľubomír Ftáčnik
