@@ -7,7 +7,6 @@
   "primeminister": "Eduard Heger",
   "birth_date": "29 August 1974",
   "birth_place": "Dunajská Streda, Czechoslovakia (now Slovakia)",
-  "party": "For the People (2019–2021), nominee of Freedom and Solidarity (2021-present)",
   "office1": "14th Minister of Justice of the Slovak Republic",
   "termstart1": "21 March 2020",
   "termend1": "23 March 2021",
@@ -17,5 +16,7 @@
   "primeminister1": "Igor Matovič",
   "alma_mater": "Comenius University",
   "profession": "lawyer",
-  "nationality": "Slovak"
+  "nationality": "Slovak",
+  "party": "Freedom and Solidarity (SaS) (2022–present)",
+  "otherparty": "For the People (2019–2021)"
 }
