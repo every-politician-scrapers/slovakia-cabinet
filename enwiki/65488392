@@ -1,17 +1,15 @@
 {
   "name": "Ivan Korčok",
-  "office": "Minister of Foreign and European Affairs of the Slovak Republic",
-  "president": "Zuzana Čaputová",
+  "office": "Minister of Foreign and European Affairs",
   "primeminister": "Eduard Heger",
   "term_start": "1 April 2021",
   "predecessor": "Jaroslav Naď (acting)",
-  "president1": "Zuzana Čaputová",
   "primeminister1": "Igor Matovič",
   "term_start1": "8 April 2020",
   "term_end1": "24 March 2021",
   "predecessor1": "Richard Sulík (acting)",
   "successor1": "Jaroslav Naď (acting)",
-  "office2": "Ambassador to the United States",
+  "office2": "Slovakian Ambassador to the United States",
   "president2": "Andrej Kiska Zuzana Čaputová",
   "term_start2": "17 September 2018",
   "term_end2": "7 April 2020",
@@ -19,5 +17,6 @@
   "successor2": "Radovan Javorčík",
   "birth_date": "April 4, 1964",
   "birth_place": "Banská Bystrica, Czechoslovakia (now Slovakia)",
-  "alma_mater": "Comenius University"
+  "party": "Freedom and Solidarity",
+  "education": "Comenius University"
 }
