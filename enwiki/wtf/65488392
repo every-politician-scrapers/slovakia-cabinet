@@ -1,0 +1,412 @@
+{
+  "title": "Ivan Korčok",
+  "pageID": 65488392,
+  "categories": [
+    "1964 births",
+    "Ambassadors of Slovakia to Germany",
+    "Ambassadors of Slovakia to the United States",
+    "Comenius University alumni",
+    "Foreign Ministers of Slovakia",
+    "Living people",
+    "Politicians from Banská Bystrica",
+    "Slovak diplomats",
+    "20th-century Slovak politicians",
+    "21st-century Slovak politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ivan Korčok (born 4 April 1964) is a Slovak politician.",
+              "links": [
+                {
+                  "text": "Slovak",
+                  "type": "internal",
+                  "page": "Slovakia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ivan Korčok"
+                ]
+              }
+            },
+            {
+              "text": "He served as Minister of Foreign and European Affairs in the Matovič Cabinet led by Prime Minister Igor Matovič from April 2020 until his resignation in late March 2021.",
+              "links": [
+                {
+                  "text": "Minister of Foreign and European Affairs",
+                  "type": "internal",
+                  "page": "Minister of Foreign Affairs (Slovakia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Matovič Cabinet"
+                },
+                {
+                  "type": "internal",
+                  "page": "Igor Matovič"
+                }
+              ]
+            },
+            {
+              "text": "He was appointed back on the 1 April 2021 under Eduard Heger's Cabinet.",
+              "links": [
+                {
+                  "text": "Eduard Heger's Cabinet",
+                  "type": "internal",
+                  "page": "Heger's Cabinet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2018, he won the Czech and Slovak Transatlantic Award.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Czech and Slovak Transatlantic Award"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 24 March 2021, he resigned amidst a wave of mass resignations in the Slovakian government due to the government's handling of the COVID-19 pandemic in the country.",
+              "links": [
+                {
+                  "text": "COVID-19 pandemic in the country",
+                  "type": "internal",
+                  "page": "COVID-19 pandemic in Slovakia"
+                }
+              ]
+            },
+            {
+              "text": "Initially, President Zuzana Čaputová had demanded the resignation of Prime Minister Igor Matovič.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Zuzana Čaputová"
+                },
+                {
+                  "type": "internal",
+                  "page": "Igor Matovič"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Slovak politician",
+          "template": "short description"
+        },
+        {
+          "date": "February 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "df": "y",
+          "year": "1964",
+          "month": "4",
+          "day": "4",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Ivan Korčok"
+          },
+          "image": {
+            "text": "Ivan Korcok 2020 SK.jpg"
+          },
+          "office": {
+            "text": "Minister of Foreign and European Affairs",
+            "links": [
+              {
+                "text": "Minister of Foreign and European Affairs",
+                "type": "internal",
+                "page": "Minister of Foreign Affairs (Slovakia)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Eduard Heger",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Eduard Heger"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 April 2021"
+          },
+          "predecessor": {
+            "text": "Jaroslav Naď (acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jaroslav Naď"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Igor Matovič",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Igor Matovič"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "8 April 2020"
+          },
+          "term_end1": {
+            "text": "24 March 2021"
+          },
+          "predecessor1": {
+            "text": "Richard Sulík (acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Richard Sulík"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Jaroslav Naď (acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jaroslav Naď"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Slovakian Ambassador to the United States"
+          },
+          "president2": {
+            "text": "Andrej Kiska Zuzana Čaputová",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andrej Kiska"
+              },
+              {
+                "type": "internal",
+                "page": "Zuzana Čaputová"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "17 September 2018"
+          },
+          "term_end2": {
+            "text": "7 April 2020"
+          },
+          "predecessor2": {
+            "text": "Peter Kmec"
+          },
+          "successor2": {
+            "text": "Radovan Javorčík"
+          },
+          "birth_date": {
+            "text": "April 4, 1964"
+          },
+          "birth_place": {
+            "text": "Banská Bystrica, Czechoslovakia (now Slovakia)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Banská Bystrica"
+              },
+              {
+                "type": "internal",
+                "page": "Czechoslovakia"
+              }
+            ]
+          },
+          "party": {
+            "text": "Freedom and Solidarity",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Freedom and Solidarity"
+              }
+            ]
+          },
+          "education": {
+            "text": "Comenius University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Comenius University"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Ivan Korčok",
+          "url": "https://www.mzv.sk/web/en/ministry/minister",
+          "url-status": "live",
+          "access-date": "3 October 2020",
+          "website": "Ministry of Foreign and European Affairs of the Slovak Republic",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "8 April 2020",
+          "title": "Prezidentka vymenovala Korčoka za ministra zahraničia",
+          "language": "sk",
+          "work": "SME",
+          "url": "https://domov.sme.sk/c/22379267/prezidentka-vymenovala-korcoka-za-ministra-zahranicia.html",
+          "url-status": "live",
+          "access-date": "3 October 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "16 September 2018",
+          "title": "Ivan Korčok Receives Czech and Slovak Transatlantic Award",
+          "work": "GLOBSEC",
+          "url": "https://www.globsec.org/news/ivan-korcok-receives-czech-and-slovak-transatlantic-award/",
+          "url-status": "live",
+          "access-date": "5 October 2020",
+          "archive-url": "https://web.archive.org/web/20200805100454/https://www.globsec.org/news/ivan-korcok-receives-czech-and-slovak-transatlantic-award/",
+          "archive-date": "5 August 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Slovak foreign minister resigns as government teeters",
+          "url": "https://www.dw.com/en/slovak-foreign-minister-resigns-as-government-teeters/a-56970292",
+          "access-date": "24 March 2021",
+          "work": "Deutsche Welle",
+          "date": "24 March 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He is married and with wife Soňa has two sons."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Honours and awards",
+      "depth": 0
+    },
+    {
+      "title": "Nongovernmental organizations",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "🇸🇰 Slovakia, Servare et Manere:",
+              "links": [
+                {
+                  "text": "🇸🇰",
+                  "type": "internal",
+                  "page": "slovakia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Slovakia"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Servare_et_Manere_flag.png",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Servare_et_Manere_flag.png?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Servare_et_Manere_flag.png",
+          "caption": "23x23px",
+          "links": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Memorial_Medal_of_Tree_of_Peace_ribbon.jpg Memorial Medal of Tree of Peace.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Memorial Medal of Tree of Peace"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "last": "Department of International Relations of the Government of the Nizhny Novgorod Region",
+          "title": "Министр иностранных и европейских дел Словакии Иван Корчок прибыл с делегацией в Нижегородскую область",
+          "url": "https://international.government-nnov.ru/?id=286395",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Tribute to Alexander Dubček in Nizhny Novgorod - Detail of web content - MZV MZV PORTAL",
+          "url": "https://www.mzv.sk/web/moskva-en/detail/-/asset_publisher/XptbLMYwZmJ6/content/hold-alexandrovi-dubcekovi-v-niznom-novgorode/10182?p_p_auth=ewwjycM1&_101_INSTANCE_XptbLMYwZmJ6_redirect=/web/moskva-en",
+          "access-date": "2021-10-15",
+          "website": "www.mzv.sk",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "slovak cabinet"
+        },
+        {
+          "template": "sk-fa-ministers"
+        },
+        {
+          "template": "foreign ministers of the european union member states"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "slovakia-politician-stub"
+        }
+      ]
+    }
+  ]
+}

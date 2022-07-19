@@ -1,0 +1,258 @@
+{
+  "title": "Natália Milanová",
+  "pageID": 64186333,
+  "categories": [
+    "Living people",
+    "1982 births",
+    "21st-century Slovak women politicians",
+    "21st-century Slovak politicians",
+    "Culture ministers of Slovakia",
+    "Women government ministers of Slovakia",
+    "Slovak educators",
+    "Members of the National Council (Slovakia)",
+    "Slovak schoolteachers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mgr."
+            },
+            {
+              "text": "Natália Milanová (née Gálisová; born 12 June 1982) is a Slovak politician, who has served as the Minister of Culture in the Government of Slovakia since 2020.",
+              "links": [
+                {
+                  "text": "née",
+                  "type": "internal",
+                  "page": "Birth name"
+                },
+                {
+                  "type": "internal",
+                  "page": "Government of Slovakia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Natália Milanová",
+                  "Gálisová"
+                ],
+                "italic": [
+                  "née"
+                ]
+              }
+            },
+            {
+              "text": "She was appointed by Prime Minister Igor Matovič after the 2020 election.",
+              "links": [
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "Prime Minister of Slovakia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Igor Matovič"
+                },
+                {
+                  "text": "2020 election",
+                  "type": "internal",
+                  "page": "2020 Slovak parliamentary election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Slovak politician",
+          "template": "short description"
+        },
+        {
+          "date": "June 2020",
+          "template": "expand czech"
+        },
+        {
+          "date": "June 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "June 2020",
+          "template": "use british english"
+        },
+        {
+          "df": "yes",
+          "year": "1982",
+          "month": "6",
+          "day": "12",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Natália Milanová"
+          },
+          "birth_name": {
+            "text": "Natália Gálisová"
+          },
+          "office": {
+            "text": "16th Minister of Culture of the Slovak Republic",
+            "links": [
+              {
+                "text": "Minister of Culture",
+                "type": "internal",
+                "page": "Heger's Cabinet"
+              },
+              {
+                "type": "internal",
+                "page": "Slovak Republic"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "21 March 2020"
+          },
+          "predecessor": {
+            "text": "Ľubica Laššáková",
+            "links": [
+              {
+                "text": "Ľubica Laššáková",
+                "type": "internal",
+                "page": "Ľubica Laššáková"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Comenius University in Bratislava",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Comenius University"
+              }
+            ]
+          },
+          "president": {
+            "text": "Zuzana Čaputová",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zuzana Čaputová"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Igor Matovič Eduard Heger",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Igor Matovič"
+              },
+              {
+                "type": "internal",
+                "page": "Eduard Heger"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "June 12, 1982"
+          },
+          "birth_place": {
+            "text": "Bratislava, Czechoslovakia (now Slovakia)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bratislava"
+              },
+              {
+                "type": "internal",
+                "page": "Czechoslovakia"
+              }
+            ]
+          },
+          "party": {
+            "text": "Ordinary People",
+            "links": [
+              {
+                "text": "Ordinary People",
+                "type": "internal",
+                "page": "Ordinary People (Slovakia)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "2020-03-21",
+          "title": "Nová ministerka kultúry Natália Milanová si prevzala úrad",
+          "url": "https://kultura.pravda.sk/galeria/clanok/546290-nova-ministerka-kultury-n-milanova-si-prevzala-urad/",
+          "access-date": "2020-06-06",
+          "website": "Pravda.sk",
+          "language": "sk-SK",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "government of slovakia 2020"
+        },
+        {
+          "template": "slovakia-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Official website",
+            "links": [
+              {
+                "text": "Official website",
+                "type": "external",
+                "site": "https://milanova.sk/"
+              }
+            ]
+          },
+          {
+            "text": "Biography webpage at the website of the National Council",
+            "links": [
+              {
+                "text": "Biography webpage",
+                "type": "external",
+                "site": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=985&CisObdobia=7"
+              },
+              {
+                "text": "National Council",
+                "type": "internal",
+                "page": "National Council (Slovakia)"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
