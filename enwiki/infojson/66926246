@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Council of the Slovak Republic"
+      ],
+      "stated_as": "Member of the National Council of the Slovak Republic"
+    },
+    "P580": "2016",
+    "P582": "2020"
+  },
+  {
+    "office": {
+      "links": [
+        "Heger's Cabinet",
+        "Slovak Republic"
+      ],
+      "stated_as": "14th Minister of Labour, Social Affairs and Family of the Slovak Republic"
+    },
+    "P580": "2020-03-21",
+    "P1365": {
+      "links": [
+        "Ján Richter"
+      ],
+      "stated_as": "Ján Richter"
+    },
+    "P582": "2021-03-17",
+    "P1366": {
+      "links": [
+        "Andrej Doležal"
+      ],
+      "stated_as": "Andrej Doležal ad interim"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Council of the Slovak Republic"
+      ],
+      "stated_as": "Member of the National Council of the Slovak Republic"
+    },
+    "P580": "2021-03-18",
+    "P582": "2021-04-08"
+  },
+  {
+    "office": {
+      "links": [
+        "Heger's Cabinet",
+        "Slovak Republic"
+      ],
+      "stated_as": "16th Minister of Labour, Social Affairs and Family of the Slovak Republic"
+    },
+    "P580": "2021-04-09",
+    "P1365": {
+      "links": [
+        "Andrej Doležal"
+      ],
+      "stated_as": "Andrej Doležal ad interim"
+    }
+  }
+]
