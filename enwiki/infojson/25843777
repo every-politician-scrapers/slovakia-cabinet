@@ -1,0 +1,102 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of speakers of Slovak parliaments"
+      ],
+      "stated_as": "5th Speaker of the National Council"
+    },
+    "P580": "2010-07-08",
+    "P1365": {
+      "links": [
+        "Pavol Paška"
+      ],
+      "stated_as": "Pavol Paška"
+    },
+    "P582": "2011-10-13",
+    "P1366": {
+      "links": [
+        "Pavol Hrušovský"
+      ],
+      "stated_as": "Pavol Hrušovský"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Member of the European Parliament"
+      ],
+      "stated_as": "Member of the European Parliament"
+    },
+    "P580": "2014-05-24",
+    "P582": "2019-05-25"
+  },
+  {
+    "office": {
+      "links": [
+        "Heger's Cabinet"
+      ],
+      "stated_as": "Deputy Prime Minister for Economic Affairs"
+    },
+    "P580": "2020-03-21",
+    "P582": "2021-03-23",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Andrej Doležal (acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Cabinet of Igor Matovič"
+      ],
+      "stated_as": "Minister of Economy"
+    },
+    "P580": "2020-03-21",
+    "P1365": {
+      "links": [
+        "Peter Žiga"
+      ],
+      "stated_as": "Peter Žiga"
+    },
+    "P582": "2021-03-23",
+    "P1366": {
+      "links": [
+        "Andrej Doležal"
+      ],
+      "stated_as": "Andrej Doležal (acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Heger's Cabinet"
+      ],
+      "stated_as": "Deputy Prime Minister for Economic Affairs"
+    },
+    "P580": "2021-04-01",
+    "P1365": {
+      "links": [
+        "Andrej Doležal"
+      ],
+      "stated_as": "Andrej Doležal (acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Cabinet of Igor Matovič"
+      ],
+      "stated_as": "Minister of Economy"
+    },
+    "P580": "2021-04-01",
+    "P1365": {
+      "links": [
+        "Andrej Doležal"
+      ],
+      "stated_as": "Andrej Doležal (acting)"
+    }
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Slovak Republic"
+      ],
+      "stated_as": "15th Minister of Transport and Construction of the Slovak Republic"
+    },
+    "P580": "2020-03-21",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Árpád Érsek"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Slovak Republic"
+      ],
+      "stated_as": "15th Minister of Labour, Social Affairs and Family of the Slovak Republic"
+    },
+    "P580": "2021-03-17",
+    "P1365": {
+      "links": [
+        "Milan Krajniak"
+      ],
+      "stated_as": "Milan Krajniak"
+    },
+    "P582": "2021-04-09",
+    "P1366": {
+      "links": [
+        "Milan Krajniak"
+      ],
+      "stated_as": "Milan Krajniak"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Slovak Republic"
+      ],
+      "stated_as": "25th Minister of Economy of the Slovak Republic"
+    },
+    "P580": "2021-03-23",
+    "P1365": {
+      "links": [
+        "Richard Sulík"
+      ],
+      "stated_as": "Richard Sulík"
+    },
+    "P582": "2021-04-01",
+    "P1366": {
+      "links": [
+        "Richard Sulík"
+      ],
+      "stated_as": "Richard Sulík"
+    }
+  }
+]

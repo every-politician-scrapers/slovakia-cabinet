@@ -1,0 +1,40 @@
+[
+  {
+    "office": {
+      "links": [
+        "Progressive Slovakia"
+      ],
+      "stated_as": "Deputy Chair of Progressive Slovakia"
+    },
+    "P580": "2018-03-15",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    },
+    "P582": "2019-03-19",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Vacant"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "President of Slovakia"
+    },
+    "P1545": "5",
+    "P580": "2019-06-15",
+    "P1365": {
+      "links": [
+        "Andrej Kiska"
+      ],
+      "stated_as": "Andrej Kiska"
+    }
+  }
+]
