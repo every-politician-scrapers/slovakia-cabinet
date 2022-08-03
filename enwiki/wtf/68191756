@@ -1,0 +1,220 @@
+{
+  "title": "Daniel Zmeko",
+  "pageID": 68191756,
+  "categories": [
+    "Slovak generals",
+    "1967 births",
+    "Living people",
+    "People from Nové Mesto nad Váhom"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "General Daniel Zmeko (born November 24, 1967 in Nové Mesto nad Váhom) is a Slovak military leader who is the current Chief of the General Staff of the Slovak Armed Forces.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nové Mesto nad Váhom"
+                },
+                {
+                  "text": "Chief of the General Staff of the Slovak Armed Forces",
+                  "type": "internal",
+                  "page": "Chief of the General Staff (Slovakia)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Daniel Zmeko"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "July 2021",
+          "template": "blp sources"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.nato.int/cps/en/natohq/who_is_who_154580.htm",
+          "title": "General Daniel Zmeko, Chief of Staff of the Slovak Republic",
+          "website": "NATO",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He was born on 24 November 1967 in Nové Mesto nad Váhom in the then-Czechoslovak Socialist Republic.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nové Mesto nad Váhom"
+                },
+                {
+                  "type": "internal",
+                  "page": "Czechoslovak Socialist Republic"
+                }
+              ]
+            },
+            {
+              "text": "He joined the Czechoslovak People's Army in 1982 at the age of 14.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Czechoslovak People's Army"
+                }
+              ]
+            },
+            {
+              "text": "He attended the Military Secondary High School in Banská Bystrica from 1982-1986."
+            },
+            {
+              "text": "He was enrolled in the Land Forces College at Vyškov na Morave from 1986-1990."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was one of the first to complete the National Defense Course at the General Milan Rastislav Štefánik Slovak Armed Forces Academy.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Milan Rastislav Štefánik"
+                }
+              ]
+            },
+            {
+              "text": "He served during Operation Iraqi Freedom.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Operation Iraqi Freedom"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 26 April 2018, Zmeko was appointed to this post and promoted to lieutenant general."
+            },
+            {
+              "text": "His position and rank entered into force on 7 May."
+            },
+            {
+              "text": "Prior to his appointment, he was the Director General of the Modernization and Infrastructure Section of the Ministry of Defense."
+            },
+            {
+              "text": "He was promoted to the rank of general on 28 May 2019."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.kgsr.sk/clenovia-klubu-generalov-sr/genpor-ing-daniel-zmeko-2/",
+          "title": "Gen. Ing. Daniel ZMEKO : Klub Generálov Slovenskej Republiky",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Zmeko is married and has two children."
+            },
+            {
+              "text": "He speaks English and Russian alongside the Slovak language.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Slovak language"
+                }
+              ]
+            },
+            {
+              "text": "His hobbies include studying military history and fishing.",
+              "links": [
+                {
+                  "text": "military history",
+                  "type": "internal",
+                  "page": "military history"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Osobná karta genmjr.Ing. Daniel Zmeko",
+            "links": [
+              {
+                "text": "Osobná karta genmjr.Ing. Daniel Zmeko",
+                "type": "external",
+                "site": "https://forum.valka.cz/topic/view/140609#456682"
+              }
+            ]
+          },
+          {
+            "text": "Prehľad služobných aktivít genmjr.Ing. Daniel Zmeko",
+            "links": [
+              {
+                "text": "Prehľad služobných aktivít genmjr.Ing. Daniel Zmeko",
+                "type": "external",
+                "site": "http://www.gs.mil.sk/index.php?ID=43&search=zmeko&page=3"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
